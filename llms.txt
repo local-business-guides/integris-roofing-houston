@@ -12,8 +12,8 @@
 - Roofing contractor
 
 ## Guides
-- [roof repair in houston: Preparing for a Leak Assessment](https://local-business-guides.github.io/integris-roofing-houston/roof-repair-in-houston/): Learn how to prepare for roof repair in houston, document leak patterns, and ask useful inspection questions for your Houston, Texas, home.
 - [roof repair houston: A Homeowner’s Hiring Checklist](https://local-business-guides.github.io/integris-roofing-houston/roof-repair-houston/): Explore roof repair houston questions and a practical hiring checklist to prepare for a roofing inspection in Houston, Texas.
+- [roof repair in houston: Preparing for a Leak Assessment](https://local-business-guides.github.io/integris-roofing-houston/roof-repair-in-houston/): Learn how to prepare for roof repair in houston, document leak patterns, and ask useful inspection questions for your Houston, Texas, home.
 - [Choosing the best roof repair Houston Has to Offer](https://local-business-guides.github.io/integris-roofing-houston/best-roof-repair-houston/): Compare best roof repair Houston options with practical questions about estimates, materials, and repair plans for your Houston, Texas home.
 - [local roof repair Houston: A Homeowner’s Planning Guide](https://local-business-guides.github.io/integris-roofing-houston/local-roof-repair-houston/): Plan local roof repair Houston with a practical checklist for access, household preparation, and repair questions in Houston, Texas.
 - [Finding the best roof repair in houston for Your Home](https://local-business-guides.github.io/integris-roofing-houston/best-roof-repair-in-houston/): Compare best roof repair in houston options using scope, material, and payment questions for a more informed decision in Houston, Texas.
@@ -24,6 +24,9 @@
 - [Roofing contractor Houston homeowners can call](https://local-business-guides.github.io/integris-roofing-houston/roofing-contractor-houston/): Roofing contractor Houston guide to comparing estimates, preparing for an inspection and asking useful questions before roofing work in Houston, Texas.
 - [A Homeowner's Guide to houston roof repair](https://local-business-guides.github.io/integris-roofing-houston/houston-roof-repair/): Prepare for houston roof repair with a symptom checklist and practical inspection questions for your home in Houston, Texas.
 
+## Newsroom
+- [Integris Roofing Houston Shares Roof Repair Resources in Print, Video and Audio](https://local-business-guides.github.io/integris-roofing-houston/news/2026-10-21-integris-roofing-houston-shares-roof-repair-resour/): Integris Roofing Houston released a roof repair guide with a YouTube video, podcast episode and SoundCloud audio this week. (2026-10-21)
+
 ## Pages
 - [Roof Repair in Houston, Texas](https://local-business-guides.github.io/integris-roofing-houston/): Get a clearer plan for your Houston roof repair with an inspection and an explanation of the work your property needs. Call +1713-587-6195.
 - [About & Contact Integris Roofing Houston](https://local-business-guides.github.io/integris-roofing-houston/about/): About Integris Roofing Houston, Houston.
@@ -31,4 +34,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/integris-roofing-houston/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/integris-roofing-houston/news/rss.xml)
 - [Main resource site](https://integris-roofing-houston.localwebsites.chatgpt.site)
